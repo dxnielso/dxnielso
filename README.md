@@ -28,6 +28,7 @@
 - ⚡ What I like to do: **I like so much play guitar, videogames ... and coding of course**
 
 
+
 ## Technologies That I Know👨🏻‍💻  
 <!--tech stack icons-->
 <p align="center">
@@ -38,5 +39,7 @@
 
 ## Github Stats  
 ![Daniel Solis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxnielso&show_icons=true&theme=dark&include_all_commits=true)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielso&layout=compact&theme=dark)
  
