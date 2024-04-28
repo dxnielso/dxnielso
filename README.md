@@ -37,9 +37,6 @@
 </p> 
 
 ## Github Stats  
-<p align="center">
-  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=dxnielso&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielso&theme=react&layout=compact" />
-</p>
-
-</td></tr></table>  
+![Daniel Solis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxnielso&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielso&layout=compact&theme=dark)
+ 
