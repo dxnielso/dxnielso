@@ -38,7 +38,7 @@
 </p> 
 
 ## Github Stats  
-![Daniel Solis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxnielso&show_icons=true&theme=dark&include_all_commits=true)
+![Daniel Solis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxnielso&show_icons=true&theme=dark)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxnielso&layout=compact&theme=dark)
